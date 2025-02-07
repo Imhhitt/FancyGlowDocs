@@ -64,9 +64,10 @@ extra:
     - icon: simple/modrinth
       link: https://modrinth.com/plugin/fancy-glow
     - icon: simple/builtbybit
-      link: https://builtbybit.com/resources/fancy-glow.43517/
- 
       link: https://builtbybit.com/resources/43517/
+    - icon: simple/discord
+      link: https://discord.smartshub.dev/
+
 extra_css:
   - stylesheets/extra.css
 
