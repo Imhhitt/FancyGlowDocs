@@ -1,0 +1,78 @@
+site_name: FancyGlow
+
+theme:
+
+  name: material
+
+  extra_css:
+    - stylesheets/extra.css
+
+  palette:
+
+    - scheme: slate
+      primary: custom
+      accent: light blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+    - scheme: default
+      primary: custom
+      accent: light blue
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+  
+  logo: assets/logo.png
+
+  favicon: assets/logo.png
+
+  icon:
+    repo: fontawesome/brands/github
+
+  features:
+    - navigation.sections
+    - navigation.path
+    - navigation.indexes
+    - search.highlight
+    - search.suggest
+    - navigation.tabs
+    - header.autohide
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+repo_url: https://github.com/Imhhitt/FancyGlow
+
+repo_name: FancyGlow Source
+
+extra:
+  generator: false
+  social:
+    - icon: simple/spigotmc
+      link: https://www.spigotmc.org/resources/fancy-glow-%E2%9C%A8-free-cosmetics-plugin.116326/
+    - icon: simple/modrinth
+      link: https://modrinth.com/plugin/fancy-glow
+    - icon: simple/builtbybit
+      link: https://builtbybit.com/resources/fancy-glow.43517/
+ 
+extra_css:
+  - stylesheets/extra.css
+
+copyright: Copyright &copy; 2025 FancyGlow Contributors
+
+nav:
+  - Home: 'index.md'
+  - Installation: 'installation.md'
+  - Utility: 'utility.md'
+  - FAQ: 'faq.md'
