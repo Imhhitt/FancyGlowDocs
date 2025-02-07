@@ -60,12 +60,13 @@ extra:
   generator: false
   social:
     - icon: simple/spigotmc
-      link: https://www.spigotmc.org/resources/fancy-glow-%E2%9C%A8-free-cosmetics-plugin.116326/
+      link: https://www.spigotmc.org/resources/116326/
     - icon: simple/modrinth
       link: https://modrinth.com/plugin/fancy-glow
     - icon: simple/builtbybit
       link: https://builtbybit.com/resources/fancy-glow.43517/
  
+      link: https://builtbybit.com/resources/43517/
 extra_css:
   - stylesheets/extra.css
 
