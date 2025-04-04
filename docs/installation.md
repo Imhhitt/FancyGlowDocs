@@ -1,3 +1,4 @@
+## Download
 - Download the latest plugin `.jar` file from the following **official** sites where FancyGlow is published:
     - :simple-modrinth: [Modrinth](https://modrinth.com/plugin/fancy-glow)
     - :simple-spigotmc: [SpigotMC](https://www.spigotmc.org/resources/116326/)
