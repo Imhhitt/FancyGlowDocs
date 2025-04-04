@@ -62,7 +62,7 @@ repo_url: https://github.com/Imhhitt/FancyGlow
 repo_name: FancyGlow Source
 
 extra:
-  generator: false
+  generator: true
   social:
     - icon: simple/spigotmc
       link: https://www.spigotmc.org/resources/116326/
@@ -72,6 +72,13 @@ extra:
       link: https://builtbybit.com/resources/43517/
     - icon: simple/discord
       link: https://discord.smartshub.dev/
+  consent:
+    title: Cookie consent
+    description: >-
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
 
 extra_css:
   - stylesheets/extra.css
