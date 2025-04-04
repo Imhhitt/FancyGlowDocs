@@ -2,6 +2,6 @@
 
 Possible reasons include:
 
-- Make sure placeholders are set properly. See [installation guide](../installation) for more info.
+- Make sure placeholders are set properly. See [installation guide](installation.md) for more info.
 - Outdated FancyGlow or outdated dependencies.
-- Shaders may not render the correct glowcolor (if the shader even support the glow feature at all).
+- Shaders may not render the correct glow color (if the shader even support the glow feature at all).
