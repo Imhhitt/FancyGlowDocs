@@ -32,20 +32,25 @@ theme:
 
   features:
     - navigation.sections
-    - navigation.path
-    - navigation.indexes
-    - search.highlight
-    - search.suggest
-    - navigation.tabs
-    - header.autohide
+    - navigation.expand
     - navigation.instant
-    - navigation.instant.progress
     - navigation.tracking
+    - navigation.expand
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - header.autohide
+    - content.tabs.link
+    - toc.integrate
 
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   - attr_list
   - md_in_html
   - pymdownx.emoji:
@@ -78,3 +83,4 @@ nav:
   - Installation: 'installation.md'
   - Utility: 'utility.md'
   - FAQ: 'faq.md'
+  - API: 'API.md'

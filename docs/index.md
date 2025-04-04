@@ -2,14 +2,13 @@
 
 #### FancyGlow Plugin - Official Documentation
 
-Looking for a fun, EULA-friendly way to enhance your server? FancyGlow adds a stylish touch that players will love! Install it today and let the glow begin! ✨
+Looking for a fun, EULA-friendly way to enhance your server? 
+
+FancyGlow adds a stylish touch that players will love! Install it today and let the glow begin! ✨
 
 ### Getting started
 
 <div class="grid" markdown>
-
-:material-source-commit-start: [:octicons-arrow-right-24: Home](index.md)
-{ .card }
 
 :octicons-tracked-by-closed-completed-16: [:octicons-arrow-right-24: Installation](installation.md)
 { .card }
@@ -19,3 +18,8 @@ Looking for a fun, EULA-friendly way to enhance your server? FancyGlow adds a st
 
 :material-frequently-asked-questions: [:octicons-arrow-right-24: FAQ](faq.md)
 { .card }
+
+:material-api: [:octicons-arrow-right-24: API](API.md)
+{ .card }
+
+</div>
